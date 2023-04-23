@@ -58,7 +58,7 @@ After building each of the models, we evaluated their accuracy and effectiveness
 Overall, our machine learning process involved selecting appropriate models, fitting the models to the data, and evaluating their performance. We used a range of metrics, including confusion matrices, to assess the accuracy and effectiveness of each model.
 
 ## Conclusion
-In this project, we built a model that can predict whether a person has diabetes or not based on their BMI, Glucose, SkinThickness, DiffWalk, HeartDiseaseorAttack, and HighChol. We collected and prepared data, explored the data using univariate, bi variate, and multivariate analysis, and selected the most appropriate predictor variables for our diabetes prediction model.
+In this project, we built a model that can predict whether a person has diabetes or not based on their BMI, Glucose, SkinThickness, DiffWalk, HeartDiseaseorAttack, and HighChol. We collected and prepared data, explored the data using univariate, bivariate, and multivariate analysis, and selected the most appropriate predictor variables for our diabetes prediction model.
 
 We used three different machine learning models: logistic regression, random forest, and support vector machine (SVM) to predict whether a person has diabetes or not. We evaluated each model's accuracy and effectiveness using confusion matrices and other metrics.
 
