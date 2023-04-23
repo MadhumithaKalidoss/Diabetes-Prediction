@@ -79,7 +79,9 @@ This project demonstrates the value of data science and machine learning in heal
 ## Data - Driven Insights
 
 Explored new ways of visualising data
+
   -Point Plots
+  
   -Chi Square Statistic
 
 Explored new machine learning models
@@ -95,7 +97,7 @@ Explored new machine learning models
   - A model producing the correct outcome may not immediately mean that it is the best model to use for our problem
 
 
-References:
+## References
 
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
@@ -103,7 +105,7 @@ https://www.kaggle.com/datasets/vikasukani/diabetes-data-set
 
 https://analyticsindiamag.com/understanding-the-basics-of-svm-with-example-and-python-implementation/
 
-*NTU Resources*
+**NTU Resources**
 
 Coursematerials for SC1015:
 
