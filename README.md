@@ -78,7 +78,7 @@ This project demonstrates the value of data science and machine learning in heal
 
 ## Data - Driven Insights
 
-Explored new ways of visualising data
+Explored new ways of visualising and analysing data
 
   -Point Plots
   
