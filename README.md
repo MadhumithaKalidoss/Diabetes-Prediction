@@ -113,4 +113,6 @@ M2 Basic Statistics
 
 M2 Exploratory Analysis
 
+M3 LinearRegression
+
 M4 Classification Tree 
