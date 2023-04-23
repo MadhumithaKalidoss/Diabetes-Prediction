@@ -12,7 +12,9 @@ The purpose of this project is to provide a useful tool to identify patients who
 ## Contributors
 
 Praveena Vijayan - Data Preparation and Random Forest
+
 Kalidoss Madhumitha - Data Visualisation of Categorical Variables and Logistic Regression
+
 Nanditha Kumar - Data Visualisation of Numerical Variables and Support Vector Machine
 
 ## Data Collection & Preparation
@@ -96,6 +98,9 @@ https://analyticsindiamag.com/understanding-the-basics-of-svm-with-example-and-p
 
 *NTU Resources*
 Coursematerials for SC1015:
+
 M2 Basic Statistics
+
 M2 Exploratory Analysis
+
 M4 Classification Tree 
