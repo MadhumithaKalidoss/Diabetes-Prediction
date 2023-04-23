@@ -78,11 +78,15 @@ This project demonstrates the value of data science and machine learning in heal
 
 ## Data - Driven Insights
 
+Explored new ways of data prediction
+
+  -KNN Imputation
+  
 Explored new ways of visualising and analysing data
 
   -Point Plots
   
-  -Chi Square Statistic
+  -Chi Square Test
 
 Explored new machine learning models
 
