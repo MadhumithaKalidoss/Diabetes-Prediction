@@ -1,21 +1,19 @@
 # Diabetes-Prediction
-
-## About 
-SC1015: Data Science and Artifical Intelligence Mini-project on Diabetes prediciton.
-
-1. Overview
-2. Exploratory Data Analysis
-3. Machine learning models
-4. Lesson learned from this project.
-5. Contributions
-
 ## Overview
 
 Diabetes is a chronic disease that affects millions of people worldwide. According to the World Health Organization, the global prevalence of diabetes among adults over 18 years of age has risen from 4.7% in 1980 to 8.5% in 2014. This disease can cause various health complications, such as heart disease, stroke, kidney failure, blindness, and amputations. Therefore, early detection and prevention are essential to reduce the burden of diabetes and its associated complications.
 
+## Problem Definition
+
 In this project, we aim to build a diabetes prediction system that can help identify individuals who are at high risk of developing diabetes. We will use machine learning algorithms to analyse various factors, such as glucose level, cholesterol levels and other relevant medical information, to accurately predict the likelihood of an individual developing diabetes
 
 The purpose of this project is to provide a useful tool to identify patients who may benefit from early intervention and lifestyle modifications to prevent or delay the onset of diabetes. 
+
+## Contributors
+
+Praveena Vijayan - Data Preparation and Random Forest
+Kalidoss Madhumitha - Data Visualisation of Categorical Variables and Logistic Regression
+Nanditha Kumar - Data Visualisation of Numerical Variables and Support Vector Machine
 
 ## Data Collection & Preparation
 
@@ -73,6 +71,31 @@ In this project, we built a model that can predict whether a person has diabetes
 We used three different machine learning models: logistic regression, random forest, and support vector machine (SVM) to predict whether a person has diabetes or not. We evaluated each model's accuracy and effectiveness using confusion matrices and other metrics.
 
 Overall, our model achieved good accuracy in predicting whether a person has diabetes or not. Our machine learning process showed that logistic regression was the most effective model for predicting diabetes in our dataset. 
-However based on our evaluations of accuracy for the model, we also further modified the logistic regression model in order to improve the performance of the model further.
 
 This project demonstrates the value of data science and machine learning in healthcare, providing insights into factors that may contribute to diabetes and helping healthcare professionals make better decisions to improve patient outcomes.
+
+## Data - Driven Insights
+
+Explored new ways of visualising data
+  -Point Plots
+  -Chi Square Statistic
+
+Explored new machine learning models
+  -Logistic Regression
+  -Random Forest
+  -Support Vector Machine
+  
+ Newfound appreciation for model evaluation
+  - A model producing the correct outcome may not immediately mean that it is the best model to use for our problem
+
+
+References:
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+https://www.kaggle.com/datasets/vikasukani/diabetes-data-set
+https://analyticsindiamag.com/understanding-the-basics-of-svm-with-example-and-python-implementation/
+
+*NTU Resources*
+Coursematerials for SC1015:
+M2 Basic Statistics
+M2 Exploratory Analysis
+M4 Classification Tree 
