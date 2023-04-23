@@ -53,9 +53,9 @@ Random forest is an ensemble learning model that uses decision trees to create a
 
 Support vector machine (SVM) is a supervised learning model that analyses data for classification and regression analysis. It works by finding the hyperplane that maximally separates the classes. In our case, the SVM model predicts whether a person has diabetes based on their values for the predictor variables.
 
-After building each of the models, we evaluated their accuracy and effectiveness through various methods such as plotting confusion matrices for each model. We used these to assess the performance of the models and identify any areas for improvement.
+After building each of the models, we evaluated their accuracy and effectiveness through various metrics such as plotting confusion matrices for each model. We used these to assess the performance of the models and identify any areas for improvement.
 
-Overall, our machine learning process involved selecting appropriate models, fitting the models to the data, and evaluating their performance. We used a range of metrics, including confusion matrices, to assess the accuracy and effectiveness of each model.
+Overall, our machine learning process involved selecting appropriate models, fitting the models to the data, and evaluating their performance.
 
 ## Conclusion
 In this project, we built a model that can predict whether a person has diabetes or not based on their BMI, Glucose, SkinThickness, DiffWalk, HeartDiseaseorAttack, and HighChol. We collected and prepared data, explored the data using univariate, bivariate, and multivariate analysis, and selected the most appropriate predictor variables for our diabetes prediction model.
