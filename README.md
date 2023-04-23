@@ -1,4 +1,13 @@
 # Diabetes-Prediction
+
+## About 
+SC1015: Data Science and Artifical Intelligence Mini-project on Diabetes prediciton.
+
+1. Overview
+2. Exploratory Data Analysis
+3. Machine learning models
+4. Conslusion
+
 ## Overview
 
 Diabetes is a chronic disease that affects millions of people worldwide. According to the World Health Organization, the global prevalence of diabetes among adults over 18 years of age has risen from 4.7% in 1980 to 8.5% in 2014. This disease can cause various health complications, such as heart disease, stroke, kidney failure, blindness, and amputations. Therefore, early detection and prevention are essential to reduce the burden of diabetes and its associated complications.
