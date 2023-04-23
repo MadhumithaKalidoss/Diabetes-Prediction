@@ -83,20 +83,28 @@ Explored new ways of visualising data
   -Chi Square Statistic
 
 Explored new machine learning models
+
   -Logistic Regression
+  
   -Random Forest
+  
   -Support Vector Machine
   
  Newfound appreciation for model evaluation
+ 
   - A model producing the correct outcome may not immediately mean that it is the best model to use for our problem
 
 
 References:
+
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+
 https://www.kaggle.com/datasets/vikasukani/diabetes-data-set
+
 https://analyticsindiamag.com/understanding-the-basics-of-svm-with-example-and-python-implementation/
 
 *NTU Resources*
+
 Coursematerials for SC1015:
 
 M2 Basic Statistics
