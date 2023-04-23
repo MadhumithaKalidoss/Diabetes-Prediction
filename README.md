@@ -6,7 +6,8 @@ SC1015: Data Science and Artifical Intelligence Mini-project on Diabetes predici
 1. Overview
 2. Exploratory Data Analysis
 3. Machine learning models
-4. Conslusion
+4. Lesson learned from this project.
+5. Contributions
 
 ## Overview
 
